@@ -1,0 +1,8 @@
+{
+  "name": "TopoBake Studio",
+  "description": "Browser-based 3D retopology, UV unwrapping, normal and diffuse map baking, and AI texture studio supporting OBJ, GLB, PLY, FBX, and ZIP workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
